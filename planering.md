@@ -1,4 +1,7 @@
 # Planering
+Volleyboll Masters
+Spelet ska handla om att spela volleyboll, för varje spike, block och serv man vinner bollen tappar andra laget hp. Ifall man gör fel ex. att spika bollen i nätet tappar man själv hp. Matchen pågår tills ena laget har slut men hp, då tar den slut och de som har kvar hp vinner och får en medalj. 
+Man väljer lagnamnet själv medans de andra laget heter motståndarna. 
 
 Planera innan du skriver kod. Här bestämmer du vad ditt spel ska vara, hur kampen fungerar och
 vilka kort du bygger det med. Visa planen och korten för läraren innan du börjar koda.
