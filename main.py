@@ -39,7 +39,10 @@ while True:
 
     if val == "1":
         print("Vi fortsätter spelet.")
-        print("Andra laget servade, nu är spelet igång!")
+        spelare_skada = random.randint(5, 20)
+        fiende_skada = random.randint(10, 25)
+
+        
         
     elif val == "2": 
         print(f"Statusen för laget {name} är {spelare_hp}, status för fiende är {fiende_hp}")
