@@ -29,3 +29,20 @@ if val == "överarms":
 else: 
     if val == "underarms":
         spelare_hp -= random.randint (5, 20)
+        print(f"fiende lag gör en spike ner i narken och vinner. Nu har {name} laget {spelare_hp} hp kvar.")
+
+while True:
+    print("\n1. Fortsätt spela")
+    print("2. Visa status")
+    print("3. Avsluta spelet")
+    val = input("välj: ")
+
+    if val == "1":
+        print("Vi fortsätter spelet.")
+        print("Andra laget servade, nu är spelet igång!")
+        
+    elif val == "2": 
+        print(f"Statusen för laget {name} är {spelare_hp}, status för fiende är {fiende_hp}")
+    elif val == "3": 
+        print("Okej ses nästa gång.")
+        break

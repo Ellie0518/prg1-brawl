@@ -6,11 +6,6 @@
 
 ## To Do
 
-#### Krav: kampen
-<!-- id: task-1793100000003-3 -->
-båda slår med slumpad skada tills någon har noll HP, i en while med and. En besegrad slår inte tillbaka. Vinnaren skrivs ut. Dela upp det
-<!-- priority: high -->
-
 #### Krav: en for med ett syfte
 <!-- id: task-1793100000005-5 -->
 se exemplen i readme.md, eller hitta på ett eget syfte
@@ -33,6 +28,12 @@ namnet frågas efter, båda har HP och startvärdena syns. För stort för ett p
 #### Krav: ett val varje tur
 <!-- id: task-1793100000004-4 -->
 spelaren väljer varje tur, minst två alternativ som du hittar på. Kraschsäkert: katt ger en ny fråga. Dela upp det
+<!-- priority: high -->
+
+#### Krav: kampen
+<!-- id: task-1793100000003-3 -->
+båda slår med slumpad skada tills någon har noll HP, i en while med and. En besegrad slår inte tillbaka. Vinnaren skrivs ut. Dela upp det
+- [ ] se till att värdet syns så man vet hur mycket ens egna lag har och hur mycket fiende laget har.
 <!-- priority: high -->
 
 ## Done
